@@ -17,7 +17,7 @@ This portfolio highlights my journey, achievements, and technical capabilities â
 
 âš¡ Fast loading & SEO optimized
 
- Tech Stack
+ ## Tech Stack
 
 Depending on your tech, but here is a standard set:
 
