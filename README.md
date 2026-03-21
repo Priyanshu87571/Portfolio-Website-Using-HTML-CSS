@@ -75,7 +75,6 @@ Run the project locally:
 
 npm start
 
-
 Or for Vite:
 
 npm run dev
