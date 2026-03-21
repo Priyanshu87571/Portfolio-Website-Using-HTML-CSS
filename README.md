@@ -38,6 +38,7 @@ If you tell me your actual stack, I’ll customize this section.
 portfolio/
 
 ├── public/
+
 ├── src/
 │   ├── components/
 │   ├── assets/
