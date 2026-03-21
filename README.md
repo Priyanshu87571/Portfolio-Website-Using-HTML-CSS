@@ -33,7 +33,8 @@ Vercel / Netlify / GitHub Pages for deployment
 
 If you tell me your actual stack, I’ll customize this section.
 
-📁 Project Structure 
+📁 Project Structure
+
 portfolio/
 ├── public/
 ├── src/
