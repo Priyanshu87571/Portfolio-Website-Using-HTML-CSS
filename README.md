@@ -58,8 +58,6 @@ portfolio/
 └── .gitignore
 
 
-
-
 💻 Setup & Installation
 
 Clone the repository:
