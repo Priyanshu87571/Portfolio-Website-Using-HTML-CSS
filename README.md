@@ -60,8 +60,7 @@ portfolio/
 
 Clone the repository:
 
-git clone :- [https://github.com/Priyanshu87571/Portfolio-Website-Using-HTML-CSS.git](https://github.com/Priyanshu87571/Portfolio-Website-Using-HTML-CSS)
-
+git clone :- 
 
 npm install
 
