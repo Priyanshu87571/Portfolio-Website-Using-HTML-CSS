@@ -60,8 +60,7 @@ portfolio/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO.git
-
+git clone :- https://github.com/Priyanshu87571
 
 Install dependencies (if using React/Vite):
 
