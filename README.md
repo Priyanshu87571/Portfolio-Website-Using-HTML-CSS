@@ -61,7 +61,7 @@ portfolio/
 Clone the repository:
 
 git clone :- https://github.com/Priyanshu87571/Portfolio-Website-Using-HTML-CSS.git
-Install dependencies (if using React/Vite):
+
 
 npm install
 
