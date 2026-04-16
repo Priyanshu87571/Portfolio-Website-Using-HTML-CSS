@@ -67,7 +67,6 @@ Install dependencies (if using React/Vite):
 
 npm install
 
-
 Run the project locally:
 
 npm start
@@ -75,3 +74,5 @@ npm start
 Or for Vite:
 
 npm run dev
+
+
