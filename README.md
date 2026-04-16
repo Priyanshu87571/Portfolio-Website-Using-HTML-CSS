@@ -71,5 +71,3 @@ npm start
 Or for Vite:
 
 npm run dev
-
-
