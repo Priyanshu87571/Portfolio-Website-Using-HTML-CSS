@@ -19,8 +19,6 @@ This portfolio highlights my journey, achievements, and technical capabilities â
 
  ## Tech Stack
 
-Depending on your tech, but here is a standard set:
-
 HTML5
 
 CSS3 / Tailwind CSS / Bootstrap (whichever you used)
