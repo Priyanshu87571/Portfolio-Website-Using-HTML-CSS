@@ -21,7 +21,7 @@ This portfolio highlights my journey, achievements, and technical capabilities â
 
 HTML5
 
-CSS3 / Tailwind CSS / Bootstrap (whichever you used)
+CSS3 / Tailwind CSS 
 
 JavaScript / React.js (choose your actual one)
 
